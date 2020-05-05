@@ -1,5 +1,5 @@
 {
-  "name": "react-share",
+  "name": "@futpib/react-share",
   "version": "4.1.0",
   "description": "Social media share buttons and share counts for React.",
   "main": "./lib/index.js",

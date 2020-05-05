@@ -7,7 +7,7 @@ function telegramLink(url: string, { title }: { title?: string }) {
   assert(url, 'telegram.url');
 
   return (
-    'https://telegram.me/share/' +
+    'https://tlinks.run/share/' +
     objectToGetParams({
       url,
       text: title,
